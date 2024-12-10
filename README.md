@@ -6,6 +6,7 @@
 npm i -g rivalz-node-cli
 ```
 
+
 2.运行
 
 ```bash
