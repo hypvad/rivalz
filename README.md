@@ -6,7 +6,7 @@
 npm i -g rivalz-node-cli
 ```
 
-2.运行
+2.运行chengxu
 
 ```bash
 rivalz run
